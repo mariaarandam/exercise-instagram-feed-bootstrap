@@ -6,15 +6,8 @@ As a developer, you are given the task to replicate a picture as a website.
 
 ## 🌱 How to start this project
 
-Do not clone this repository because we are going to be using a different template.
-
-We recommend opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command. 
-
-This is the repository you need to open or clone:
-
-```text
-https://github.com/4GeeksAcademy/html-hello
-```
+1. Fork this repository
+2. Clone it with Visual Studio
 
 **Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
