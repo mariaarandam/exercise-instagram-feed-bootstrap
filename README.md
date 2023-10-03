@@ -4,6 +4,13 @@
 
 As a developer, you are given the task to replicate a picture as a website.
 
+## Guía
+
+1. Primero implementad la vista en la que se ven los feeds en 1 sola columna , olvidaos de esos botones que permiten cambiar entre vistas
+2. Luego, podéis implementar la vista en 3 columnas. 
+3. Hay componentes que se parecen mucho. Tipo: navbar con logo, navbar sin logo, navbar con menú hamburguesa, etc. Tenéis que encontrar el que más se adapte al problema que queréis resolver
+4. Respetad la estructra de Bootstrap. Si un componente tiene una estrctura determinada : divs, h4, p, etc, es importante que respetéis dicha estructura para que todo el componetne BootStrap funcione. Si no, no va a ir bien (ejemplo: no se desplegará el menú hamburguesa de un navbar)
+
 ## 🌱 How to start this project
 
 1. Fork this repository
